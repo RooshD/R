@@ -1,7 +1,7 @@
 # R repository
 Compilation of my R projects
 
-## Project 1: Predictive model for Diabetes
+## Project 1: Predictive modeling for Diabetes
 This project contains the R code and visualization outputs for a project focused on predicting diabetes using statistical machine learning techniques. 
 ### Project Overview
 - **Objective**: Predict the occurrence of diabetes based on various health indicators.
