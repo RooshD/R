@@ -10,3 +10,11 @@ This project contains the R code and visualization outputs for a project focused
   - Exploratory data analysis
   - Building and evaluating a Decision Tree model
   - Building and evluating a Random Forest model
+- **Attached files**:
+  - 'Healthcare-Diabetes.csv': Contains the original dataset obtained from Kaggle
+  - 'Diabetes Indicator Predictive Model.R': Contains the code for data processing, visualizations, and machine learning models
+- **Visualizations**:
+  - 
+- **Conclusion**:
+  -  Summary of findings:
+  -  Key takeaways:
