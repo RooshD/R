@@ -30,5 +30,9 @@ This project contains the R code and visualization outputs for a project focused
   </figure>
   
 - **Conclusion**:
-  -  Summary of findings: TBD
-  -  Key takeaways: I used 70% of the initial dataset to train the ML models and 30% of the dataset to test them. This resulted in the Decision Tree model being able to predict the target variable (Outcome) with 83.98% accuracy and the Random Forest model being able to predict the target variable with 98.80% accuracy.
+  I used 70% of the initial dataset to train the ML models and 30% of the dataset to test them. This resulted in the Decision Tree model being able to predict the target variable (Outcome) with 83.98% accuracy overall and the Random Forest model being able to predict the target variable with 98.80% accuracy overall. The Random Forest model I implemented for predicting diabetes has demonstrated excellent performance, proven to be both reliable and accurate. The model correctly identified whether individuals had diabetes with an impressive accuracy rate of 98.8%. This high level of accuracy means that the model makes very few mistakes, which is critical for medical predictions.
+
+  Here's a breakdown of its key strengths:
+  - The model correctly identified the majority of diabetic cases (99.45% accuracy), showing its strong ability to detect those who need further medical examination and potential treatment.
+  - It was also highly effective at confirming when individuals do not have diabetes, with a success rate of 97.53%. This is important for avoiding unnecessary medical procedures or anxiety for those who are healthy.
+  - Overall, the model's predictions were reliable 98.5% of the time, regardless of whether the individuals had diabetes or not, showcasing balanced performance across different scenarios.
