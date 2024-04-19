@@ -31,4 +31,4 @@ This project contains the R code and visualization outputs for a project focused
   
 - **Conclusion**:
   -  Summary of findings: TBD
-  -  Key takeaways: TBD
+  -  Key takeaways: I used 70% of the initial dataset to train the ML models and 30% of the dataset to test them. This resulted in the Decision Tree model being able to predict the target variable (Outcome) with 83.98% accuracy and the Random Forest model being able to predict the target variable with 98.80% accuracy.
